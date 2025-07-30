@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SYED-ZAIN</h1>
 <h3 align="center">building intelligent systems using (LLM)GPT, Streamlit, and LangChain. Currently working on LLM-based evaluation tools and real-time chatbot apps.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
